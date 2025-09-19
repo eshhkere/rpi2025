@@ -85,6 +85,9 @@ body {
 }
 
 .task-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     flex: 1;
     min-height: 300px;
 }
@@ -121,6 +124,7 @@ body {
     background-color: #ffebee;
     color: #c62828;
 }
+
 
 .tasks-list {
     display: flex;
