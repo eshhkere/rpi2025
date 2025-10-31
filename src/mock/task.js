@@ -44,14 +44,14 @@ export const tasks = [
         title: "Приготовить поесть",
         status: "done",
     },
-    {
-        id: "10",
-        title: "Сходить погулять",
-        status: "basket",
-    },
-    {
-        id: "11",
-        title: "Лечь спать",
-        status: "basket",
-    }
+    // {
+    //     id: "10",
+    //     title: "Сходить погулять",
+    //     status: "basket",
+    // },
+    // {
+    //     id: "11",
+    //     title: "Лечь спать",
+    //     status: "basket",
+    // }
 ]
